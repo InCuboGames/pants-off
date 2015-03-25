@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: e5db7b424bb3b6347b5b94fed6b6c643
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cabelo_testa:polySurface1
+    100002: //RootNode
+    100004: Kibe:polySurface1
+    100006: nurbsCube1
+    100008: pCube1
+    100010: Piloto:Cargo4_M:polySurface12
+    100012: Piloto:Character1_Ctrl_ChestEndEffector
+    100014: Piloto:Character1_Ctrl_ChestOriginEffector
+    100016: Piloto:Character1_Ctrl_Head
+    100018: Piloto:Character1_Ctrl_HeadEffector
+    100020: Piloto:Character1_Ctrl_Hips
+    100022: Piloto:Character1_Ctrl_HipsEffector
+    100024: Piloto:Character1_Ctrl_LeftAnkleEffector
+    100026: Piloto:Character1_Ctrl_LeftArm
+    100028: Piloto:Character1_Ctrl_LeftElbowEffector
+    100030: Piloto:Character1_Ctrl_LeftFoot
+    100032: Piloto:Character1_Ctrl_LeftFootEffector
+    100034: Piloto:Character1_Ctrl_LeftForeArm
+    100036: Piloto:Character1_Ctrl_LeftHand
+    100038: Piloto:Character1_Ctrl_LeftHandMiddle1
+    100040: Piloto:Character1_Ctrl_LeftHandMiddle2
+    100042: Piloto:Character1_Ctrl_LeftHandMiddle3
+    100044: Piloto:Character1_Ctrl_LeftHandMiddleEffector
+    100046: Piloto:Character1_Ctrl_LeftHandThumb1
+    100048: Piloto:Character1_Ctrl_LeftHandThumb2
+    100050: Piloto:Character1_Ctrl_LeftHandThumb3
+    100052: Piloto:Character1_Ctrl_LeftHandThumbEffector
+    100054: Piloto:Character1_Ctrl_LeftHipEffector
+    100056: Piloto:Character1_Ctrl_LeftKneeEffector
+    100058: Piloto:Character1_Ctrl_LeftLeg
+    100060: Piloto:Character1_Ctrl_LeftShoulder
+    100062: Piloto:Character1_Ctrl_LeftShoulderEffector
+    100064: Piloto:Character1_Ctrl_LeftToeBase
+    100066: Piloto:Character1_Ctrl_LeftUpLeg
+    100068: Piloto:Character1_Ctrl_LeftWristEffector
+    100070: Piloto:Character1_Ctrl_Neck
+    100072: Piloto:Character1_Ctrl_Reference
+    100074: Piloto:Character1_Ctrl_RightAnkleEffector
+    100076: Piloto:Character1_Ctrl_RightArm
+    100078: Piloto:Character1_Ctrl_RightElbowEffector
+    100080: Piloto:Character1_Ctrl_RightFoot
+    100082: Piloto:Character1_Ctrl_RightFootEffector
+    100084: Piloto:Character1_Ctrl_RightForeArm
+    100086: Piloto:Character1_Ctrl_RightHand
+    100088: Piloto:Character1_Ctrl_RightHandMiddle1
+    100090: Piloto:Character1_Ctrl_RightHandMiddle2
+    100092: Piloto:Character1_Ctrl_RightHandMiddle3
+    100094: Piloto:Character1_Ctrl_RightHandMiddleEffector
+    100096: Piloto:Character1_Ctrl_RightHandThumb1
+    100098: Piloto:Character1_Ctrl_RightHandThumb2
+    100100: Piloto:Character1_Ctrl_RightHandThumb3
+    100102: Piloto:Character1_Ctrl_RightHandThumbEffector
+    100104: Piloto:Character1_Ctrl_RightHipEffector
+    100106: Piloto:Character1_Ctrl_RightKneeEffector
+    100108: Piloto:Character1_Ctrl_RightLeg
+    100110: Piloto:Character1_Ctrl_RightShoulder
+    100112: Piloto:Character1_Ctrl_RightShoulderEffector
+    100114: Piloto:Character1_Ctrl_RightToeBase
+    100116: Piloto:Character1_Ctrl_RightUpLeg
+    100118: Piloto:Character1_Ctrl_RightWristEffector
+    100120: Piloto:Character1_Ctrl_Spine
+    100122: Piloto:Character1_Ctrl_Spine1
+    100124: Piloto:Character1_Ctrl_Spine2
+    100126: Piloto:Character1_Head
+    100128: Piloto:Character1_Hips
+    100130: Piloto:Character1_LeftArm
+    100132: Piloto:Character1_LeftFoot
+    100134: Piloto:Character1_LeftForeArm
+    100136: Piloto:Character1_LeftHand
+    100138: Piloto:Character1_LeftHandMiddle1
+    100140: Piloto:Character1_LeftHandMiddle2
+    100142: Piloto:Character1_LeftHandMiddle3
+    100144: Piloto:Character1_LeftHandThumb1
+    100146: Piloto:Character1_LeftHandThumb2
+    100148: Piloto:Character1_LeftHandThumb3
+    100150: Piloto:Character1_LeftLeg
+    100152: Piloto:Character1_LeftShoulder
+    100154: Piloto:Character1_LeftToeBase
+    100156: Piloto:Character1_LeftUpLeg
+    100158: Piloto:Character1_Neck
+    100160: Piloto:Character1_Reference
+    100162: Piloto:Character1_RightArm
+    100164: Piloto:Character1_RightFoot
+    100166: Piloto:Character1_RightForeArm
+    100168: Piloto:Character1_RightHand
+    100170: Piloto:Character1_RightHandMiddle1
+    100172: Piloto:Character1_RightHandMiddle2
+    100174: Piloto:Character1_RightHandMiddle3
+    100176: Piloto:Character1_RightHandThumb1
+    100178: Piloto:Character1_RightHandThumb2
+    100180: Piloto:Character1_RightHandThumb3
+    100182: Piloto:Character1_RightLeg
+    100184: Piloto:Character1_RightShoulder
+    100186: Piloto:Character1_RightToeBase
+    100188: Piloto:Character1_RightUpLeg
+    100190: Piloto:Character1_Spine
+    100192: Piloto:Character1_Spine1
+    100194: Piloto:Character1_Spine2
+    100196: Piloto:nurbsCube1
+    100198: Piloto:oculos_escuros:pCube1
+    100200: Piloto:pCube1
+    100202: Piloto:polySurface4
+    100204: polySurface1
+    100206: polySurface10
+    100208: polySurface11
+    100210: polySurface13
+    100212: polySurface14
+    100214: polySurface15
+    100216: polySurface2
+    100218: polySurface4
+    100220: polySurface5
+    100222: polySurface7
+    100224: polySurface8
+    100226: transform2
+    400000: cabelo_testa:polySurface1
+    400002: //RootNode
+    400004: Kibe:polySurface1
+    400006: nurbsCube1
+    400008: pCube1
+    400010: Piloto:Cargo4_M:polySurface12
+    400012: Piloto:Character1_Ctrl_ChestEndEffector
+    400014: Piloto:Character1_Ctrl_ChestOriginEffector
+    400016: Piloto:Character1_Ctrl_Head
+    400018: Piloto:Character1_Ctrl_HeadEffector
+    400020: Piloto:Character1_Ctrl_Hips
+    400022: Piloto:Character1_Ctrl_HipsEffector
+    400024: Piloto:Character1_Ctrl_LeftAnkleEffector
+    400026: Piloto:Character1_Ctrl_LeftArm
+    400028: Piloto:Character1_Ctrl_LeftElbowEffector
+    400030: Piloto:Character1_Ctrl_LeftFoot
+    400032: Piloto:Character1_Ctrl_LeftFootEffector
+    400034: Piloto:Character1_Ctrl_LeftForeArm
+    400036: Piloto:Character1_Ctrl_LeftHand
+    400038: Piloto:Character1_Ctrl_LeftHandMiddle1
+    400040: Piloto:Character1_Ctrl_LeftHandMiddle2
+    400042: Piloto:Character1_Ctrl_LeftHandMiddle3
+    400044: Piloto:Character1_Ctrl_LeftHandMiddleEffector
+    400046: Piloto:Character1_Ctrl_LeftHandThumb1
+    400048: Piloto:Character1_Ctrl_LeftHandThumb2
+    400050: Piloto:Character1_Ctrl_LeftHandThumb3
+    400052: Piloto:Character1_Ctrl_LeftHandThumbEffector
+    400054: Piloto:Character1_Ctrl_LeftHipEffector
+    400056: Piloto:Character1_Ctrl_LeftKneeEffector
+    400058: Piloto:Character1_Ctrl_LeftLeg
+    400060: Piloto:Character1_Ctrl_LeftShoulder
+    400062: Piloto:Character1_Ctrl_LeftShoulderEffector
+    400064: Piloto:Character1_Ctrl_LeftToeBase
+    400066: Piloto:Character1_Ctrl_LeftUpLeg
+    400068: Piloto:Character1_Ctrl_LeftWristEffector
+    400070: Piloto:Character1_Ctrl_Neck
+    400072: Piloto:Character1_Ctrl_Reference
+    400074: Piloto:Character1_Ctrl_RightAnkleEffector
+    400076: Piloto:Character1_Ctrl_RightArm
+    400078: Piloto:Character1_Ctrl_RightElbowEffector
+    400080: Piloto:Character1_Ctrl_RightFoot
+    400082: Piloto:Character1_Ctrl_RightFootEffector
+    400084: Piloto:Character1_Ctrl_RightForeArm
+    400086: Piloto:Character1_Ctrl_RightHand
+    400088: Piloto:Character1_Ctrl_RightHandMiddle1
+    400090: Piloto:Character1_Ctrl_RightHandMiddle2
+    400092: Piloto:Character1_Ctrl_RightHandMiddle3
+    400094: Piloto:Character1_Ctrl_RightHandMiddleEffector
+    400096: Piloto:Character1_Ctrl_RightHandThumb1
+    400098: Piloto:Character1_Ctrl_RightHandThumb2
+    400100: Piloto:Character1_Ctrl_RightHandThumb3
+    400102: Piloto:Character1_Ctrl_RightHandThumbEffector
+    400104: Piloto:Character1_Ctrl_RightHipEffector
+    400106: Piloto:Character1_Ctrl_RightKneeEffector
+    400108: Piloto:Character1_Ctrl_RightLeg
+    400110: Piloto:Character1_Ctrl_RightShoulder
+    400112: Piloto:Character1_Ctrl_RightShoulderEffector
+    400114: Piloto:Character1_Ctrl_RightToeBase
+    400116: Piloto:Character1_Ctrl_RightUpLeg
+    400118: Piloto:Character1_Ctrl_RightWristEffector
+    400120: Piloto:Character1_Ctrl_Spine
+    400122: Piloto:Character1_Ctrl_Spine1
+    400124: Piloto:Character1_Ctrl_Spine2
+    400126: Piloto:Character1_Head
+    400128: Piloto:Character1_Hips
+    400130: Piloto:Character1_LeftArm
+    400132: Piloto:Character1_LeftFoot
+    400134: Piloto:Character1_LeftForeArm
+    400136: Piloto:Character1_LeftHand
+    400138: Piloto:Character1_LeftHandMiddle1
+    400140: Piloto:Character1_LeftHandMiddle2
+    400142: Piloto:Character1_LeftHandMiddle3
+    400144: Piloto:Character1_LeftHandThumb1
+    400146: Piloto:Character1_LeftHandThumb2
+    400148: Piloto:Character1_LeftHandThumb3
+    400150: Piloto:Character1_LeftLeg
+    400152: Piloto:Character1_LeftShoulder
+    400154: Piloto:Character1_LeftToeBase
+    400156: Piloto:Character1_LeftUpLeg
+    400158: Piloto:Character1_Neck
+    400160: Piloto:Character1_Reference
+    400162: Piloto:Character1_RightArm
+    400164: Piloto:Character1_RightFoot
+    400166: Piloto:Character1_RightForeArm
+    400168: Piloto:Character1_RightHand
+    400170: Piloto:Character1_RightHandMiddle1
+    400172: Piloto:Character1_RightHandMiddle2
+    400174: Piloto:Character1_RightHandMiddle3
+    400176: Piloto:Character1_RightHandThumb1
+    400178: Piloto:Character1_RightHandThumb2
+    400180: Piloto:Character1_RightHandThumb3
+    400182: Piloto:Character1_RightLeg
+    400184: Piloto:Character1_RightShoulder
+    400186: Piloto:Character1_RightToeBase
+    400188: Piloto:Character1_RightUpLeg
+    400190: Piloto:Character1_Spine
+    400192: Piloto:Character1_Spine1
+    400194: Piloto:Character1_Spine2
+    400196: Piloto:nurbsCube1
+    400198: Piloto:oculos_escuros:pCube1
+    400200: Piloto:pCube1
+    400202: Piloto:polySurface4
+    400204: polySurface1
+    400206: polySurface10
+    400208: polySurface11
+    400210: polySurface13
+    400212: polySurface14
+    400214: polySurface15
+    400216: polySurface2
+    400218: polySurface4
+    400220: polySurface5
+    400222: polySurface7
+    400224: polySurface8
+    400226: transform2
+    2300000: polySurface1
+    2300002: polySurface10
+    2300004: polySurface11
+    2300006: polySurface13
+    2300008: polySurface14
+    2300010: polySurface15
+    2300012: polySurface2
+    2300014: polySurface4
+    2300016: polySurface5
+    2300018: polySurface7
+    2300020: polySurface8
+    3300000: polySurface1
+    3300002: polySurface10
+    3300004: polySurface11
+    3300006: polySurface13
+    3300008: polySurface14
+    3300010: polySurface15
+    3300012: polySurface2
+    3300014: polySurface4
+    3300016: polySurface5
+    3300018: polySurface7
+    3300020: polySurface8
+    4300000: Piloto:Cargo4_M:polySurface12
+    4300002: Piloto:oculos_escuros:pCube1
+    4300004: Piloto:polySurface4
+    4300006: Piloto:pCube1
+    4300008: polySurface1
+    4300010: polySurface2
+    4300012: polySurface4
+    4300014: polySurface5
+    4300016: polySurface7
+    4300018: polySurface8
+    4300020: polySurface10
+    4300022: polySurface11
+    4300024: polySurface13
+    4300026: polySurface14
+    4300028: polySurface15
+    4300030: cabelo_testa:polySurface1
+    7400000: HelicopterLoop
+    9500000: //RootNode
+    13700000: cabelo_testa:polySurface1
+    13700002: Piloto:Cargo4_M:polySurface12
+    13700004: Piloto:oculos_escuros:pCube1
+    13700006: Piloto:pCube1
+    13700008: Piloto:polySurface4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HelicopterLoop
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 264
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cabelo_testa:polySurface1
+        weight: 1
+      - path: Kibe:polySurface1
+        weight: 1
+      - path: Kibe:polySurface1/polySurface1
+        weight: 1
+      - path: Kibe:polySurface1/polySurface2
+        weight: 1
+      - path: Kibe:polySurface1/polySurface4
+        weight: 1
+      - path: Kibe:polySurface1/polySurface5
+        weight: 1
+      - path: Kibe:polySurface1/polySurface7
+        weight: 1
+      - path: Kibe:polySurface1/polySurface8
+        weight: 1
+      - path: Kibe:polySurface1/polySurface10
+        weight: 1
+      - path: Kibe:polySurface1/polySurface11
+        weight: 1
+      - path: Kibe:polySurface1/polySurface13
+        weight: 1
+      - path: Kibe:polySurface1/polySurface14
+        weight: 1
+      - path: nurbsCube1
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/transform2
+        weight: 1
+      - path: Piloto:Cargo4_M:polySurface12
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_ChestEndEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_ChestOriginEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_HeadEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_LeftUpLeg
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_LeftUpLeg/Piloto:Character1_Ctrl_LeftLeg
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_LeftUpLeg/Piloto:Character1_Ctrl_LeftLeg/Piloto:Character1_Ctrl_LeftFoot
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_LeftUpLeg/Piloto:Character1_Ctrl_LeftLeg/Piloto:Character1_Ctrl_LeftFoot/Piloto:Character1_Ctrl_LeftToeBase
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_RightUpLeg
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_RightUpLeg/Piloto:Character1_Ctrl_RightLeg
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_RightUpLeg/Piloto:Character1_Ctrl_RightLeg/Piloto:Character1_Ctrl_RightFoot
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_RightUpLeg/Piloto:Character1_Ctrl_RightLeg/Piloto:Character1_Ctrl_RightFoot/Piloto:Character1_Ctrl_RightToeBase
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandMiddle1
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandMiddle1/Piloto:Character1_Ctrl_LeftHandMiddle2
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandMiddle1/Piloto:Character1_Ctrl_LeftHandMiddle2/Piloto:Character1_Ctrl_LeftHandMiddle3
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandThumb1
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandThumb1/Piloto:Character1_Ctrl_LeftHandThumb2
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_LeftShoulder/Piloto:Character1_Ctrl_LeftArm/Piloto:Character1_Ctrl_LeftForeArm/Piloto:Character1_Ctrl_LeftHand/Piloto:Character1_Ctrl_LeftHandThumb1/Piloto:Character1_Ctrl_LeftHandThumb2/Piloto:Character1_Ctrl_LeftHandThumb3
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_Neck
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_Neck/Piloto:Character1_Ctrl_Head
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandMiddle1
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandMiddle1/Piloto:Character1_Ctrl_RightHandMiddle2
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandMiddle1/Piloto:Character1_Ctrl_RightHandMiddle2/Piloto:Character1_Ctrl_RightHandMiddle3
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandThumb1
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandThumb1/Piloto:Character1_Ctrl_RightHandThumb2
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_Hips/Piloto:Character1_Ctrl_Spine/Piloto:Character1_Ctrl_Spine1/Piloto:Character1_Ctrl_Spine2/Piloto:Character1_Ctrl_RightShoulder/Piloto:Character1_Ctrl_RightArm/Piloto:Character1_Ctrl_RightForeArm/Piloto:Character1_Ctrl_RightHand/Piloto:Character1_Ctrl_RightHandThumb1/Piloto:Character1_Ctrl_RightHandThumb2/Piloto:Character1_Ctrl_RightHandThumb3
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_HipsEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftAnkleEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftElbowEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftFootEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftHandMiddleEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftHandThumbEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftHipEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftKneeEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftShoulderEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_LeftWristEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightAnkleEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightElbowEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightFootEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightHandMiddleEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightHandThumbEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightHipEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightKneeEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightShoulderEffector
+        weight: 1
+      - path: Piloto:Character1_Ctrl_Reference/Piloto:Character1_Ctrl_RightWristEffector
+        weight: 1
+      - path: Piloto:Character1_Reference
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_LeftUpLeg
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_LeftUpLeg/Piloto:Character1_LeftLeg
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_LeftUpLeg/Piloto:Character1_LeftLeg/Piloto:Character1_LeftFoot
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_LeftUpLeg/Piloto:Character1_LeftLeg/Piloto:Character1_LeftFoot/Piloto:Character1_LeftToeBase
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_RightUpLeg
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_RightUpLeg/Piloto:Character1_RightLeg
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_RightUpLeg/Piloto:Character1_RightLeg/Piloto:Character1_RightFoot
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_RightUpLeg/Piloto:Character1_RightLeg/Piloto:Character1_RightFoot/Piloto:Character1_RightToeBase
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandMiddle1
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandMiddle1/Piloto:Character1_LeftHandMiddle2
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandMiddle1/Piloto:Character1_LeftHandMiddle2/Piloto:Character1_LeftHandMiddle3
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandThumb1
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandThumb1/Piloto:Character1_LeftHandThumb2
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_LeftShoulder/Piloto:Character1_LeftArm/Piloto:Character1_LeftForeArm/Piloto:Character1_LeftHand/Piloto:Character1_LeftHandThumb1/Piloto:Character1_LeftHandThumb2/Piloto:Character1_LeftHandThumb3
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_Neck
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_Neck/Piloto:Character1_Head
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandMiddle1
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandMiddle1/Piloto:Character1_RightHandMiddle2
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandMiddle1/Piloto:Character1_RightHandMiddle2/Piloto:Character1_RightHandMiddle3
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandThumb1
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandThumb1/Piloto:Character1_RightHandThumb2
+        weight: 1
+      - path: Piloto:Character1_Reference/Piloto:Character1_Hips/Piloto:Character1_Spine/Piloto:Character1_Spine1/Piloto:Character1_Spine2/Piloto:Character1_RightShoulder/Piloto:Character1_RightArm/Piloto:Character1_RightForeArm/Piloto:Character1_RightHand/Piloto:Character1_RightHandThumb1/Piloto:Character1_RightHandThumb2/Piloto:Character1_RightHandThumb3
+        weight: 1
+      - path: Piloto:nurbsCube1
+        weight: 1
+      - path: Piloto:oculos_escuros:pCube1
+        weight: 1
+      - path: Piloto:pCube1
+        weight: 1
+      - path: Piloto:polySurface4
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .449999988
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 90
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

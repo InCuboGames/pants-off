@@ -1,0 +1,7 @@
+- Centralizar o "Textos" na tela
+- Colocar o "BtsBG" alinhado aos textos com opacidade 50%
+- No onMouseOver, colocar um BtIndividual sobre o Botão onde o evento ocorre com opacidade 100%
+- No onClick, colocar o Bt*Correspondente* sobre o Botão onde o evento ocorre com opacidade 100% (sem o BtIndividual)
+- Ao selecionar Recomeçar, Seleção ou Sair, colocar a BlackScreen sobre todos os objetos já presentes na tela com opacidade 95%
+- Sobre a Black Screen, colocar o texto correspondente ao botão pressionado centralizado na tela
+- O BtsSimNao vão exatamente sobre o botão "Selecão de Andares"
